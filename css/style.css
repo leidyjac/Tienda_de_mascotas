@@ -1,0 +1,211 @@
+.encabezado1{
+background-color: #222222;
+}
+
+.textoencabezado1{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+color: #F3F3F3;
+text-decoration: none;
+}
+
+.encabezado2{
+    background-color: #F0A83E;
+}
+
+.textoencabezado2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+    text-decoration:none
+}
+.banner{
+    background-image:url("../img/img-banner.jpg");
+    background-size: cover;
+    height: 700px;
+}
+
+h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #3C2313;
+    }
+.spanplacer{
+    background-image: url(../img/rectanguloblanco.png);
+}
+.descuento{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: #3C2313;
+}
+
+h3{
+    text-align: center;
+}
+.comederos{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+text-decoration: none;
+background-color: #F0A83E;
+}
+
+
+.productos{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+color: #666666
+}
+
+.c.descripcionproducto{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+color: #3C2313
+}
+
+.precioproducto{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+color: #F0A83E;
+}
+
+.contactanos{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+color: #3C2313;
+text-align: left;
+
+}
+
+.datos{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+    color: #FFFFFF;
+    background-color: #3C2313;
+}
+.resetear{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+background: #8A8787;
+border-radius: 15px;
+outline: none;
+border: none;
+}
+
+.enviar{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+background: #F0A83E;
+border-radius: 15px;
+border: none;
+}
+
+.suscribete{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+color: #FFFFFF;
+background: #F0A83E;
+text-align: left;
+}
+
+.correo{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 11px;
+color: #A0A0A0;
+background: #FFFFFF;
+border-radius: 15px
+}
+
+.suscribirme{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 11px;
+color: #FFFFFF;
+background: #3C2313;
+border-radius: 15px;
+}
+.suscripcion{
+    background-color: #F0A83E;
+}
+
+.datoscontacto{
+    background: #3C2313;
+}
+h4{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+color: #FFFFFF
+}
+
+.descripciondatoscontacto{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+color: #8A8787
+}
+.partefinal{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+color: #FFFFFF;
+background: #222222;
+text-align: center;
+}
+
+
